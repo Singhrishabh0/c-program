@@ -1,1 +1,8 @@
-
+#include<studio.h>
+#include<conio.h>
+void main()
+{
+printf("c");
+scanf("%d");
+getch();
+}
