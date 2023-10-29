@@ -1,0 +1,13 @@
+//acc.to turboc++
+#include<stdio.h>
+#include<conio.h>
+float main()
+{
+int area;
+printf("enter radius");
+scanf("%d",area");
+
+area=3.14*radius*radius;
+printf("area is %d",radius*radius);
+getch();
+}
