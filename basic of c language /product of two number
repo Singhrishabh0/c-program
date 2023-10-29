@@ -1,0 +1,16 @@
+//in turboc++
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int a,b,mul;
+printf("enter any value of a");
+scanf("%d",&a);
+
+printf("enter value of b");
+scanf("%d",&b);
+
+mul=a*b;
+printf("mul of a and b is %d",mul);
+getch();
+}
