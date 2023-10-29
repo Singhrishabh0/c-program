@@ -1,2 +1,2 @@
-# singhrhabh0
-code.of c language in turboc++
+c/c++
+//code.of c language in turboc++
